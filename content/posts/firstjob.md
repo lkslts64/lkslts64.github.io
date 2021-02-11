@@ -2,7 +2,7 @@
 title: Landing my first job as a Software Engineer
 date: 2021-02-08T23:06:32+02:00
 draft: false
-tags: [interview, coding interview, software engineering]
+tags: [interview, coding interview, system-design, software engineering]
 ---
 
 
@@ -27,11 +27,11 @@ passed nearly all first round interviews.
 5 days later, and I got an offer! The job title was *Golang Software Engineer* that
 would work with ,amongst others, *Kafka* and *Cassandra* - i.e. large distributed systems that I am interested in -. That was nearly the perfect job description I could have! But something was wrong. I felt that my skills weren't tested 
 as much during the interviews. They had given me a homework assignment which was 
-relatively easy and took me approximately one day to finish. Judging from their interview process, I felt that they make offers without thorough examination of the candidates and that would perhaps increase their [false positives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives), resulting in hiring average engineers.  Ideally, I wanted to be asked some challenging questions during the interviews and maybe take part in a live coding interview. And suddenly... I had my opportunity! I got an email from a top-notch e-commerce Greek company named Skroutz! They wanted to schedule a first call with me.
+relatively easy and took me approximately one day to finish. Judging from their interview process, I felt that they make offers without thorough examination of the candidates and that would perhaps increase their [false positives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives), resulting in hiring average engineers.  Ideally, I wanted to be asked some challenging questions during the interviews and maybe take part in a live coding interview. And suddenly... I had my opportunity! I got an email from a top-notch e-commerce Greek company! They wanted to schedule a first call with me.
 
-## __Skroutz__
+## __The challenging interview__
 
-Before the call, I was so nervous. Despite I had done that a handful of times before, it felt like it was my first time. I also had read about their [hiring process](https://engineering.skroutz.gr/blog/hiring-engineers-while-working-from-home/) which was very robust. Fortunately, the three interviewers were very friendly and made the whole process less stressful. They asked me some questions about web architecture (HTTP, DNS, TLS etc), which testing types I am aware of (Unit testing, Fuzz testing etc) and some questions about two of my previous projects as usual. I was able to answer the vast majority of them. Fast-forward 5 days later, I got an email from them telling me 
+Before the call, I was so nervous. Despite I had done that a handful of times before, it felt like it was my first time. I also had read about their hiring process which was very robust. Fortunately, the three interviewers were very friendly and made the whole process less stressful. They asked me some questions about web architecture (HTTP, DNS, TLS etc), which testing types I am aware of (Unit testing, Fuzz testing etc) and some questions about two of my previous projects as usual. I was able to answer the vast majority of them. Fast-forward 5 days later, I got an email from them telling me 
 that they would like to proceed at the 2nd round of the process which is a __coding interview__. I had 10 days to prepare so every day I was solving at least 4 [Leetcode](https://leetcode.com/) problems of medium difficulty. I also read the [tech interview handbook](https://github.com/yangshun/tech-interview-handbook) which I highly recommend. At last, the interview day came and the two interviewers presented the problem I had to solve:  
 
     You have the following three operations permitted on a word:
@@ -53,13 +53,13 @@ that they would like to proceed at the 2nd round of the process which is a __cod
 At first, I was confused and couldn't think clearly but after 5-10 minutes I was able to break the problem into subproblems and the solution came naturally.
 Most importantly, I was constantly giving feedback to the interviewers and explaining my thought process while coding. I finished 15-20 minutes before the 45-minute threshold 
 which was another plus. The next day we scheduled the third call which was about
-__system design__. For this round, I studied from the [system-design-primer repo](https://github.com/donnemartin/system-design-primer). Finally, the day of the third and final interview came. The system that I was tasked to design was a comparison shopping website which is what Skroutz used to be at the begining. Emphasis was given at the database schema design, database queries and the REST API endpoint's design, partly because they didn't expect from a Junior to have extensive knowledge in scaling systems. My performance wasn't as good as the one at the coding interview primarily because of my lack of knowledge about 
-web applications and databases design. The interviewer warned me that if I eventually come at Skroutz, I should be putting a lot of effort into learning all these things I'm lacking of. His words made me a bit more skeptical about this position. 
+__system design__. For this round, I studied from the [system-design-primer repo](https://github.com/donnemartin/system-design-primer). Finally, the day of the third and final interview came. The system that I was tasked to design was a comparison shopping website. Emphasis was given at the database schema design, database queries and the REST API endpoint's design, partly because they didn't expect from a Junior to have extensive knowledge in scaling systems. My performance wasn't as good as the one at the coding interview primarily because of my lack of knowledge about 
+web applications and databases design. The interviewer made it clear that if I eventually get hired, I should be putting a lot of effort into learning all these things I'm lacking of. His words made me a bit more skeptical about this position. 
 
 ## __The Dilemma__
 
-Do I really want to work on an e-commerce web application (i.e. Skroutz) writing Ruby on Rails? Probably the answer is no, but on the other hand, I would be working closely with highly talented engineers in an amazing environment. 
-Do I want to work with Go and distributed systems? Definitely yes, but on the other hand the working environment maybe won't be as good as Skroutz's.
+Do I really want to work on an e-commerce web application writing Ruby on Rails? Probably the answer is no, but on the other hand, I would be working closely with highly talented engineers in an amazing environment. 
+Do I want to work with Go and distributed systems? Definitely yes, but on the other hand the working environment maybe won't be as good as the first one.
 Clearly, I had a dilemma. In my opinion, on these situations, the best thing someone has to do is to follow his/her *instinct*. 
 
 At the end, I definitely enjoyed the whole job 'hunting' *journey*, and surely I gained some confidence.  
