@@ -1,6 +1,6 @@
 ---
 title: Thoughts and notes
-date: {{ .Date }}
+date: 2021-06-10T18:09:37+02:00
 draft: true
 ---
 
