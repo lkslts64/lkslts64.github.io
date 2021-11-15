@@ -1,7 +1,7 @@
 ---
 title: Landing my first job as a Software Engineer
 date: 2021-02-08T23:06:32+02:00
-draft: false
+draft: true
 tags: [interview, coding interview, system design, software engineering]
 ---
 
