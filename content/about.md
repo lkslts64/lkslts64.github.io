@@ -7,4 +7,4 @@ draft: false
 
 # Welcome to my blog!
 
-I am a software engineer from Greece interested in large scale distributed and concurrent systems. I also love Go which is best suited for the implementation of those systems. Aside from engineering, I like playing board games, listening to electronic music and watching alternative movies.
+I am a software engineer from Greece interested in large scale distributed and concurrent systems. I also love Go which is suited for the implementation of those systems. Aside from engineering, I like playing board games, listening to electronic music and watching alternative/indie movies.
